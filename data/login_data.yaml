@@ -24,5 +24,5 @@ test_login_010:
   username: "11111中国"
   password: "9998888"
   get_toast_msg: "不存在"
-  except_msg: "此用户不存在"
+  except_msg: "此用户不存在111"
   tag: 0
